@@ -8,9 +8,9 @@ Run the following commands from Your root directory
 
 ## Step 1
 
-`git clone https://github.com/spielers/zulip_bot.git`  /* To clone this repository */
+`https://github.com/spielers/Wiki-media-welcome.git`  /* To clone this repository */
 
-`cd zulip-bot ` /* To Navigate to the cloned repo */
+`cd Wiki-media-welcome ` /* To Navigate to the cloned repo */
 
 `cd python-zulip-api` - navigate into your cloned repository.
 
