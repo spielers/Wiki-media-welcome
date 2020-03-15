@@ -48,4 +48,7 @@ python manage.py runserver
 
 Open http://127.0.0.1:8000/ to see the code in your browser!
 
+## Step 5
+
+At the same time start you local zulip servers webpage at https://127.0.0.1/1991/  
 
